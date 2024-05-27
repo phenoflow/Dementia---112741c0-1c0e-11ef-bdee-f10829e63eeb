@@ -1,0 +1,102 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/dementia-dementium---primary.py
+inputModule3:
+  class: File
+  path: python/dementia-degen---primary.py
+inputModule4:
+  class: File
+  path: python/dementia-alzheimer---primary.py
+inputModule5:
+  class: File
+  path: python/dementia-unspecified---primary.py
+inputModule6:
+  class: File
+  path: python/dementia-depression---primary.py
+inputModule7:
+  class: File
+  path: python/chronic-dementia---primary.py
+inputModule8:
+  class: File
+  path: python/dementia-psychosis---primary.py
+inputModule9:
+  class: File
+  path: python/paranoid-dementia---primary.py
+inputModule10:
+  class: File
+  path: python/dementia-condition---primary.py
+inputModule11:
+  class: File
+  path: python/subcortical-dementia---primary.py
+inputModule12:
+  class: File
+  path: python/dementia-onset---primary.py
+inputModule13:
+  class: File
+  path: python/mixed-dementia---primary.py
+inputModule14:
+  class: File
+  path: python/dementia-parkinsons---primary.py
+inputModule15:
+  class: File
+  path: python/alcoholic-dementia---primary.py
+inputModule16:
+  class: File
+  path: python/dementia-presenile---primary.py
+inputModule17:
+  class: File
+  path: python/cerebral-dementia---primary.py
+inputModule18:
+  class: File
+  path: python/arteriosclerotic-dementia---primary.py
+inputModule19:
+  class: File
+  path: python/dementia-features---primary.py
+inputModule20:
+  class: File
+  path: python/other-dementia---primary.py
+inputModule21:
+  class: File
+  path: python/dementia-childhood---primary.py
+inputModule22:
+  class: File
+  path: python/vascular-dementia---primary.py
+inputModule23:
+  class: File
+  path: python/early-dementia---primary.py
+inputModule24:
+  class: File
+  path: python/dementia-delirium---primary.py
+inputModule25:
+  class: File
+  path: python/dementia-psychoses---primary.py
+inputModule26:
+  class: File
+  path: python/organic-dementia---primary.py
+inputModule27:
+  class: File
+  path: python/dementia-reye's---primary.py
+inputModule28:
+  class: File
+  path: python/dementia-huntington---primary.py
+inputModule29:
+  class: File
+  path: python/dementia-uncomplicated---primary.py
+inputModule30:
+  class: File
+  path: python/dementia---primary.py
+inputModule31:
+  class: File
+  path: python/dementia-superimposed---primary.py
+inputModule32:
+  class: File
+  path: python/dementia-picks---primary.py
+inputModule33:
+  class: File
+  path: python/dementia-jakobcreutzfeldt---primary.py
+inputModule34:
+  class: File
+  path: python/output-cases.py
